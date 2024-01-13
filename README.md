@@ -22,37 +22,7 @@ public Animation onCreateAnimation(int transit, boolean enter, int nextAnim) {
 }
 ```
 
-See more example in [ExampleFragment.java](https://github.com/kakajika/FragmentAnimations/blob/master/app/src/main/java/com/labo/kaji/fragmentanimations/example/ExampleFragment.java)
-
 ## Contents
-
-### Cube Animation
-
-[CubeAnimation.java](https://github.com/kakajika/FragmentAnimations/blob/master/fragmentanimations/src/main/java/com/labo/kaji/fragmentanimations/CubeAnimation.java)
-
-![Cube](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif)
-
-### Flip Animation
-
-[FlipAnimation.java](https://github.com/kakajika/FragmentAnimations/blob/master/fragmentanimations/src/main/java/com/labo/kaji/fragmentanimations/FlipAnimation.java)
-
-![Flip](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/flip.gif)
-
-### Push/Pull Animation
-
-[PushPullAnimation.java](https://github.com/kakajika/FragmentAnimations/blob/master/fragmentanimations/src/main/java/com/labo/kaji/fragmentanimations/PushPullAnimation.java)
-
-![Push/Pull](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/pushpull.gif)
-
-### Sides Animation
-
-[SidesAnimation.java](https://github.com/kakajika/FragmentAnimations/blob/master/fragmentanimations/src/main/java/com/labo/kaji/fragmentanimations/SidesAnimation.java)
-
-### Move Animation
-
-[MoveAnimation.java](https://github.com/kakajika/FragmentAnimations/blob/master/fragmentanimations/src/main/java/com/labo/kaji/fragmentanimations/MoveAnimation.java)
-
-![Move](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/move.gif)
 
 ## Combination
 
@@ -69,35 +39,19 @@ public Animation onCreateAnimation(int transit, boolean enter, int nextAnim) {
 }
 ```
 
-### Cube/Move Animation
-
-![Cube/Move](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cubemove.gif)
-
-### Move/Cube Animation
-
-![Move/Cube](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/movecube.gif)
-
-### Push/Move Animation
-
-![Push/Move](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/pushmove.gif)
-
-### Move/Pull Animation
-
-![Move/Pull](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/movepull.gif)
-
 ## Install
 
 This library is available in jcenter.
 
 ```groovy
 dependencies {
-    compile 'com.labo.kaji:fragmentanimations:0.1.1'
+    compile 'com.labo.voyeen.inc:fragmentanimations:0.1.1'
 }
 ```
 
 ## License
 
-    Copyright 2015 kakajika
+    Copyright 2015 Voyeen.Inc
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
